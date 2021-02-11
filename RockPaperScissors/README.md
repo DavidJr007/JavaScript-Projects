@@ -1,6 +1,6 @@
 # Bill Calculator
 
-Show live: https://davidjr007.github.io/Portfolio-Projects/RockPaperScissors
+Show live: https://davidjr007.github.io/JavaScript-Projects/RockPaperScissors
 
 ## Table of contents
 
