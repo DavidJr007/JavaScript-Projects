@@ -1,5 +1,5 @@
 # Hangman Game
-Show live: https://davidjr007.github.io/Portfolio-Projects/HangmanGame
+Show live: https://davidjr007.github.io/JavaScript-Projects/HangmanGame
 
 ## Table of contents
 * [General info](#general-info)
